@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Results summary component coding challenge](./assets/images/Captura%20de%20tela%202023-06-10%20204123.png)
 
 ## Welcome! 👋
 
